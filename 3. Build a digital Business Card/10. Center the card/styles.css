@@ -2,18 +2,20 @@ body {
     margin: 20px;
 }
 
-.avatar {
-    width: 150px;
-}
-
 .card {
     /*
     Challenge:
     Give the card a width of 400px wide and center it.
     */
+    margin: auto;
+    width: 400px;
     padding: 20px;
     display: flex;
     justify-content: space-around
+}
+
+.avatar {
+    width: 150px;
 }
 
 .border-blue {
