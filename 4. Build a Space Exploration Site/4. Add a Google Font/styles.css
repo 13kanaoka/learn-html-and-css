@@ -1,4 +1,4 @@
-body {
+ body {
     color: white;
     background-image: url("images/universe.jpg");
     background-size: cover;
@@ -6,6 +6,7 @@ body {
     /* 
     Set the font family here. 
     */
+    font-family: 'Orbitron', sans-serif;
 }
 
 .btn {
